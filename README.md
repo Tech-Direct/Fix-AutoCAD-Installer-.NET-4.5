@@ -1,5 +1,5 @@
 # Fix-AutoCAD-Installer-.NET-4.5
-The geniuses at AutoDesk created a .NET check for the AutoCAD 2015 installer that looks to see if you have EXACTLY .NET 4.5. If you have .NET 4.5.1 or .NET 4.6 or any other newer version of .NET, the install fails. Rather than uninstalling and reinstalling .NET to install AutoCAD, simply use thes scripts on this page.
+The geniuses at AutoDesk created a .NET check for the AutoCAD 2015 installer that looks to see if you have EXACTLY .NET 4.5. If you have .NET 4.5.1 or .NET 4.6 or any other newer version of .NET, the install fails. Rather than uninstalling and reinstalling .NET to install AutoCAD, simply use the scripts on this page.
 
 This fix is not limited to just AutoDesk products. Any software that is checking for exactly **.NET 4.5** can be fixed by running these scripts.
 
